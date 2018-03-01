@@ -1,0 +1,24 @@
+.ui.menu.topmenu{
+ background:black;
+  margin:0px;
+}
+
+.ui.menu .item{
+  color:white;
+}
+.ui.grid.footer{
+  background:#f96d21;
+  padding-top:10px;
+}
+
+.ui.grid .row{
+  color:white;
+}
+h3{
+  font-size:25px;
+}
+
+.item .content{
+  margin-left:5px;
+  margin-right:10px;
+}
